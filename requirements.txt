@@ -1,0 +1,6 @@
+networkx
+pandas
+geopy
+staticmap
+haversine
+python-telegram-bot==10
